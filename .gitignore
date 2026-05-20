@@ -1,0 +1,25 @@
+# Dataset (download via download_dataset.py — see README)
+PlantVillage/
+data.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python / tools
+.cache/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Trained models (optional local artifacts)
+*.keras
+*.h5
+*.pkl
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+tmp/
